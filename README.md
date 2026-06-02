@@ -63,6 +63,11 @@ Command Breakdown:
 
     --name: Aapki executable file ka customized naam set karta hai.
 
+## Images 📂:
+
+<img width="815" height="602" alt="image" src="https://github.com/user-attachments/assets/7af9a92f-0574-4dc8-b52a-734bd5c0fc96" />
+
+
 Compilation khatam hone ke baad, aapko aapki desktop ready executable file dist/ folder ke andar ILA_OADM_Merger.exe naam se mil jayegi.
 
 ## 📂 Expected Input Formats
